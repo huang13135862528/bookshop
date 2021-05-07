@@ -45,6 +45,7 @@
         width: 100%;
         position: sticky;   //css3新增固定属性，类似于position:fixed;特定浏览器适用。移动端都适用
         top: 44px;
+        z-index: 10;
 
         .tab-control-item{
             flex: 1;
